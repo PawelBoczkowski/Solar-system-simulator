@@ -14,6 +14,8 @@ namespace SolarSystemSimulation
         public Vector2f position;
         string name;
         public float mass;
+
+        //Bardzo ważna zmiana!
         
        public Planet()
         {
