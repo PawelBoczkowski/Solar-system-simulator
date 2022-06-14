@@ -16,6 +16,7 @@ namespace SolarSystemSimulation
         public float mass;
 
         //Bardzo ważna zmiana!
+        //Jeszcze jedna nawet ważniejsza!!
         
        public Planet()
         {
